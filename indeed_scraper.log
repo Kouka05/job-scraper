@@ -1,0 +1,20 @@
+2025-08-01 15:26:35,108 - INFO - Starting Indeed job scraper
+2025-08-01 15:26:35,110 - INFO - Scraping page 1: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:26:35,193 - INFO - Fetching: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:26:35,427 - ERROR - Error fetching https://www.indeed.com/jobs?q=data+analyst&l=&start=0: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:26:35,427 - WARNING - Skipping page 1 due to fetch error
+2025-08-01 15:26:35,427 - INFO - Scraping page 2: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:26:35,474 - INFO - Fetching: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:26:35,651 - ERROR - Error fetching https://www.indeed.com/jobs?q=data+analyst&l=&start=10: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:26:35,651 - WARNING - Skipping page 2 due to fetch error
+2025-08-01 15:26:35,653 - WARNING - No jobs scraped. Check the logs for issues.
+2025-08-01 15:33:13,153 - INFO - Starting Indeed job scraper with Cloudflare bypass
+2025-08-01 15:33:13,153 - INFO - Scraping page 1: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:33:13,196 - INFO - Fetching: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:33:14,931 - ERROR - Error fetching https://www.indeed.com/jobs?q=data+analyst&l=&start=0: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:33:14,932 - WARNING - Skipping page 1 due to fetch error
+2025-08-01 15:33:14,932 - INFO - Scraping page 2: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:33:14,957 - INFO - Fetching: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:33:16,450 - ERROR - Error fetching https://www.indeed.com/jobs?q=data+analyst&l=&start=10: 403 Client Error: Forbidden for url: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:33:16,451 - WARNING - Skipping page 2 due to fetch error
+2025-08-01 15:33:16,454 - WARNING - No jobs scraped. Check the logs for issues.

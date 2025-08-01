@@ -1,0 +1,58 @@
+2025-08-01 15:13:24,936 - INFO - Starting Indeed job scraper
+2025-08-01 15:13:24,936 - INFO - ====== WebDriver manager ======
+2025-08-01 15:13:26,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-01 15:13:26,262 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-01 15:13:26,473 - INFO - Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-01 15:13:29,113 - INFO - Scraping page 1: https://www.indeed.com/jobs?q=data+analyst&l=&start=0
+2025-08-01 15:13:47,873 - WARNING - Job cards not loaded: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4ba83+63395]
+	GetHandleVerifier [0x0xa4bac4+63460]
+	(No symbol) [0x0x892113]
+	(No symbol) [0x0x8da85e]
+	(No symbol) [0x0x8dabfb]
+	(No symbol) [0x0x922f92]
+	(No symbol) [0x0x8ff3f4]
+	(No symbol) [0x0x9207ba]
+	(No symbol) [0x0x8ff1a6]
+	(No symbol) [0x0x8ce7b2]
+	(No symbol) [0x0x8cf654]
+	GetHandleVerifier [0x0xcc8883+2672035]
+	GetHandleVerifier [0x0xcc3cba+2652634]
+	GetHandleVerifier [0x0xa72bca+223466]
+	GetHandleVerifier [0x0xa62cb8+158168]
+	GetHandleVerifier [0x0xa6978d+185517]
+	GetHandleVerifier [0x0xa53b78+96408]
+	GetHandleVerifier [0x0xa53d02+96802]
+	GetHandleVerifier [0x0xa3e90a+9770]
+	BaseThreadInitThunk [0x0x768d5d49+25]
+	RtlInitializeExceptionChain [0x0x7738d1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7738d131+561]
+
+2025-08-01 15:13:47,877 - INFO - Scraping page 2: https://www.indeed.com/jobs?q=data+analyst&l=&start=10
+2025-08-01 15:14:08,824 - WARNING - Job cards not loaded: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4ba83+63395]
+	GetHandleVerifier [0x0xa4bac4+63460]
+	(No symbol) [0x0x892113]
+	(No symbol) [0x0x8da85e]
+	(No symbol) [0x0x8dabfb]
+	(No symbol) [0x0x922f92]
+	(No symbol) [0x0x8ff3f4]
+	(No symbol) [0x0x9207ba]
+	(No symbol) [0x0x8ff1a6]
+	(No symbol) [0x0x8ce7b2]
+	(No symbol) [0x0x8cf654]
+	GetHandleVerifier [0x0xcc8883+2672035]
+	GetHandleVerifier [0x0xcc3cba+2652634]
+	GetHandleVerifier [0x0xa72bca+223466]
+	GetHandleVerifier [0x0xa62cb8+158168]
+	GetHandleVerifier [0x0xa6978d+185517]
+	GetHandleVerifier [0x0xa53b78+96408]
+	GetHandleVerifier [0x0xa53d02+96802]
+	GetHandleVerifier [0x0xa3e90a+9770]
+	BaseThreadInitThunk [0x0x768d5d49+25]
+	RtlInitializeExceptionChain [0x0x7738d1ab+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7738d131+561]
+
+2025-08-01 15:14:12,598 - WARNING - No jobs scraped. Check the logs for issues.
